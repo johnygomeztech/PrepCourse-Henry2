@@ -1,2 +1,1 @@
-# PrepCourse-Henry2
-este es mi primer repositorio del modulo 2 del curso de henry
+Este es uproyecto  es una de como crear un repositorio y clonarlo desde github a mi repositorio local
